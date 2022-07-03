@@ -1,0 +1,3 @@
+[submodule "bodyArchitectNutrition"]
+	path = bodyArchitectNutrition
+	url = https://github.com/JeanYves-TESSEREAU/bodyArchitectNutrition.git
